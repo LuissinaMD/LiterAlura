@@ -18,6 +18,9 @@ Literalura es una aplicación de backend desarrollada con Java y Spring Boot uti
 * PostgreSQL
 * Maven como herramienta de gestión de dependencias
 
+## API Gutendex
+https://gutendex.com/
+
 ## Requisitos previos
 Antes de ejecutar la aplicación, asegúrate de tener configurado lo siguiente:
 Java 17 o superior instalado.
